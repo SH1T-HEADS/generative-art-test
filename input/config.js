@@ -347,7 +347,7 @@ const races = {
             id: 0,
             name: "3D",
             path: `${dir}/6-eyes/E_3D.PNG`,
-            weight: 0,
+            weight: 1,
           },
           {
             id: 1,
@@ -610,7 +610,7 @@ const races = {
           {
             id: 44,
             name: "Squirtle",
-            path: `${dir}/6-eyes/E_Squirtle.PNG`,
+            path: `${dir}/6-eyes/E_Squritle.PNG`,
             weight: 25,
           },
           {
